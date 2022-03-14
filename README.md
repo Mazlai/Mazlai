@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on on a large project, consisting of making an application (all themes are welcome), usable on all media.
 
 - 📫 How to reach me :
-- ➥ Discord : Maz' | マイ#9646 / Mickaaa | ミキ#0002
+- ➥ Discord : Mazlai | マイ#0002
 - ➥ Instagram : https://www.instagram.com/mf.mazlai/?hl=fr
 - ➥ LinkedIn : (sooner or later)
 
