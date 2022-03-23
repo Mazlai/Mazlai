@@ -1,7 +1,12 @@
 
-<p align="center">
+<!--p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazlai&show_icons=true&theme=radical" align = "center"/>
-<!--img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazlai&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/-->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazlai&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
+</p-->
+
+<p align="center">
+ <img height="207em" src="https://github-readme-stats-taupe-pi.vercel.app/api/top-langs/? username=mazlai&layout=compact&langs_count=10&hide_border=1&theme=radical" align = "center"/>
+ <img height="207em" src="https://github-readme-stats-taupe-pi.vercel.app/api?username=mazlai&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&theme=radical" align = "center"/>
 </p>
 
 <hr>
