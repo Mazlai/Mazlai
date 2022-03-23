@@ -1,11 +1,10 @@
+# Hi, I’m @Mazlai. 👋
 
 <p align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazlai&show_icons=true&theme=radical&card_width=600" align = "center"/>
 </p>
 
 <hr>
-
-# Hi, I’m @Mazlai. 👋
 
  - 👀 I’m interested in frontend development of applications or websites (using HTML, CSS, JS) but also in back-end development including SQL, PHP...
 
