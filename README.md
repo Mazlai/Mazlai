@@ -4,7 +4,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazlai&show_icons=true&theme=radical&card_width=600" align = "center"/>
 </p-->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mazlai&show_icons=true&theme=radical&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazlai&layout=compact&theme=radical&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mazlai&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazlai&layout=compact&theme=radical&hide_border=true" /> |
 | ------------- | ------------- |
 
 <hr>
