@@ -1,15 +1,6 @@
 # Hi, I’m @Mazlai. 👋
 
-### GitHub Achievements 👇
-
-<!--p align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazlai&show_icons=true&theme=radical&card_width=600" align = "center"/>
-</p-->
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mazlai&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazlai&layout=compact&theme=radical&hide_border=true" /> |
-| ------------- | ------------- |
-
-<hr>
+### To introduce myself 👇
 
  - 👀 I’m interested in frontend development of applications or websites (using HTML, CSS, JS) but also in back-end development including SQL, PHP...
 
@@ -21,6 +12,13 @@
 - ➥ Discord : Mazlai | マイ#0002
 - ➥ Instagram : https://www.instagram.com/mf.mazlai/?hl=fr 
 - ➥ LinkedIn : (sooner or later)
+
+<hr>
+
+### GitHub Achievements 🍃
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mazlai&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazlai&layout=compact&theme=radical&hide_border=true" /> |
+| ------------- | ------------- |
 
 <!---
 Mazlai/Mazlai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
