@@ -1,14 +1,14 @@
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazlai&show_icons=true&theme=radical" align = "left"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazlai&show_icons=true&locale=en&layout=compact&theme=radical" align = "right"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazlai&show_icons=true&theme=radical" align = "left"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazlai&show_icons=true&locale=en&layout=compact&theme=radical" align = "right"/>
 </p>
-<br/> <br/>
-<p>
-- 👋 Hi, I’m @Mazlai.
 
-- 👀 I’m interested in frontend development of applications or websites (using HTML, CSS, JS) but also in back-end development including SQL, PHP...
+<p align="start">
+ - 👋 Hi, I’m @Mazlai.
 
-- 🌱 I’m currently learning Java (for object-oriented programming), C (for computer architecture), PHP (for dynamic web pages), SQL (for databases), UNIX (for terminals) and Python as part of my studies.
+ - 👀 I’m interested in frontend development of applications or websites (using HTML, CSS, JS) but also in back-end development including SQL, PHP...
+
+ - 🌱 I’m currently learning Java (for object-oriented programming), C (for computer architecture), PHP (for dynamic web pages), SQL (for databases), UNIX (for terminals) and Python as part of my studies.
  
 - 💞️ I’m looking to collaborate on on a large project, consisting of making an application (all themes are welcome), usable on all media.
 
