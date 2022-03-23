@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazlai&show_icons=true&theme=radical&card_width=200)
+
 - 👋 Hi, I’m @Mazlai.
 
 - 👀 I’m interested in frontend development of applications or websites (using HTML, CSS, JS) but also in back-end development including SQL, PHP...
