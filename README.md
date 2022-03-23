@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazlai&show_icons=true&theme=radical&card_width=200)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazlai&show_icons=true&theme=radical&card_width=300)
 
 - 👋 Hi, I’m @Mazlai.
 
