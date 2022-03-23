@@ -3,6 +3,8 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazlai&show_icons=true&locale=en&layout=compact&theme=radical" align = "right"/>
 </p>
 
+<hr>
+
 <p align="start">
  - 👋 Hi, I’m @Mazlai.
 
