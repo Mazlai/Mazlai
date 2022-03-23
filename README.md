@@ -1,6 +1,6 @@
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazlai&show_icons=true&theme=radical" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazlai&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazlai&show_icons=true&theme=radical" align = "left"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazlai&show_icons=true&locale=en&layout=compact&theme=radical" align = "right"/>
 </p>
 
 
