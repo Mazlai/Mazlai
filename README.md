@@ -6,7 +6,7 @@
 <hr>
 
 <p align="start">
- - 👋 Hi, I’m @Mazlai.
+#Hi, I’m @Mazlai. 👋
 
  - 👀 I’m interested in frontend development of applications or websites (using HTML, CSS, JS) but also in back-end development including SQL, PHP...
 
