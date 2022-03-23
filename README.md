@@ -1,8 +1,6 @@
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazlai&show_icons=true&theme=radical" align = "left"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazlai&show_icons=true&locale=en&layout=compact&theme=radical" align = "right"/>
-</p>
-
 
 - 👋 Hi, I’m @Mazlai.
 
@@ -17,7 +15,7 @@
 - ➥ Instagram : https://www.instagram.com/mf.mazlai/?hl=fr
 - ➥ LinkedIn : (sooner or later)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazlai&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 <!---
 Mazlai/Mazlai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
