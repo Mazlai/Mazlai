@@ -5,8 +5,7 @@
 
 <hr>
 
-<p align="start">
-#Hi, I’m @Mazlai. 👋
+# Hi, I’m @Mazlai. 👋
 
  - 👀 I’m interested in frontend development of applications or websites (using HTML, CSS, JS) but also in back-end development including SQL, PHP...
 
@@ -18,8 +17,6 @@
 - ➥ Discord : Mazlai | マイ#0002
 - ➥ Instagram : https://www.instagram.com/mf.mazlai/?hl=fr 
 - ➥ LinkedIn : (sooner or later)
-
-</p>
 
 <!---
 Mazlai/Mazlai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
