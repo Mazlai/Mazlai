@@ -6,7 +6,7 @@
 
  - 🌱 I’m currently learning Java (for object-oriented programming), C (for computer architecture), PHP (for dynamic web pages), SQL (for databases), UNIX (for     terminals) and Python as part of my studies.
  
-- 💞️ I’m looking to collaborate on on a large project, consisting of making an application (all themes are welcome), usable on all media.
+- 💞️ I’m looking to collaborate on a large project, consisting of making an application (all themes are welcome), usable on all media.
 
 ### Social media 📹
 
