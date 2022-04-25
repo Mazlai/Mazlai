@@ -1,4 +1,4 @@
-# Hi, I’m @Mazlai 👋
+# Hi, I’m @Mazlai. 👋
 
 ### Introduce myself 👇
 
