@@ -35,7 +35,7 @@
 
 ##### Databases 📋
 
-<a href="https://github.com/Mazlai/SAE2.04"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> </a>
+<a href="https://github.com/Mazlai/SAE2.04"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> </a>
 
 <hr>
 <!---
