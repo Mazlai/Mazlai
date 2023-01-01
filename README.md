@@ -2,11 +2,11 @@
 
 ### Introduce myself 👇
 
- - 👀 I’m interested in frontend development of applications or websites (using HTML, CSS, JS) but also in back-end development including SQL, PHP...
+ - 👀 I am interested in frontend development of applications or websites (using HTML, CSS, JS) but also in back-end development including SQL, PHP...
 
- - 🌱 I’m currently learning Java (for object-oriented programming), C (for computer architecture), PHP (for dynamic web pages), SQL (for databases), UNIX (for     terminals) and Python as part of my studies.
+ - 🌱 I am currently learning Java (for object-oriented programming), C (for computer architecture), PHP (for dynamic web pages), SQL (for databases), UNIX (for     terminals) and Python as part of my studies.
  
-- 💞️ I’m looking to collaborate on a large project, consisting of making an application (all themes are welcome), usable on all media.
+- 💞️ I am looking to collaborate on a large project, consisting of making an application (all themes are welcome), usable on all media or to create an appropriate website.
 
 ### Social media 📹
 
