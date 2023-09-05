@@ -4,13 +4,12 @@
 
  - 👀 I am interested in frontend development of applications or websites (using HTML, CSS, JS) but also in back-end development including SQL, PHP...
 
- - 🌱 I am currently learning Java (for object-oriented programming), C (for computer architecture), PHP (for dynamic web pages), SQL (for databases), UNIX (for     terminals) and Python as part of my studies.
+ - 🌱 I am currently learning Java (for object-oriented programming), JavaScript frameworks (like Node.js for building server-side applications), PHP (for dynamic web pages), SQL (for databases), UNIX (for terminals) and Python as part of my studies.
  
 - 💞️ I am looking to collaborate on a large project, consisting of making an application (all themes are welcome), usable on all media or to create an appropriate website.
 
 ### Social media 📹
 
-- <a href="https://github.com/Mazlai | マイ#0002" > <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 - <a href="https://www.instagram.com/mf.mazlai/?hl=fr" > <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
 
 - <a href="https://discord.com/users/" > <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
@@ -27,7 +26,7 @@
 
 ##### Web 🌐
 
-<a href="https://github.com/Mazlai/info-mfernandez" ><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> </a> <a href="https://github.com/Mazlai/info-mfernandez" ><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> </a> <a href="https://github.com/Mazlai/info-mfernandez" ><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> </a>
+<a href="https://github.com/Mazlai/info-mfernandez" ><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> </a> <a href="https://github.com/Mazlai/info-mfernandez" ><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> </a> <a href="https://github.com/Mazlai/info-mfernandez" ><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> </a> <a href="https://github.com/Mazlai/SAE3.01"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> </a>
 
 ##### Programming languages ⌨️
 
@@ -35,7 +34,7 @@
 
 ##### Databases 📋
 
-<a href="https://github.com/Mazlai/SAE2.04"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> </a>
+<a href="https://github.com/Mazlai/SAE2.04"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /> </a>
 
 <hr>
 <!---
