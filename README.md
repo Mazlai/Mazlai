@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>↪️</td>
-    <td><a href="https://www.linkedin.com/in/mickael-fernandez-28905723a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a></td>
+    <td><a href="https://www.linkedin.com/in/mickael-fernandez-mf/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a></td>
   </tr>
 </table>
 
