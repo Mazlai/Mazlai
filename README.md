@@ -4,7 +4,7 @@
 
  - 👀 I am interested in frontend development of applications or websites (using HTML, CSS, JS) but also in back-end development including SQL, PHP...
 
- - 🌱 I am currently learning Java (for object-oriented programming), JavaScript frameworks (like Node.js for building server-side applications), PHP (for dynamic web pages), SQL (for databases), UNIX (for terminals) and Python as part of my studies.
+ - 🌱 I am currently learning Java (for object-oriented programming), Node.js (for building server-side applications), PHP (for dynamic web pages), SQL (for databases), UNIX (for terminals) and Python as part of my studies.
  
 - 💞️ I am looking to collaborate on a large project, consisting of making an application (all themes are welcome), usable on all media or to create an appropriate website.
 
