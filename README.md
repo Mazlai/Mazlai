@@ -55,6 +55,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/Mazlai/SAE2.04"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /></a></td>
+    <td><a href="https://github.com/Mazlai/RSSB"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a></td>
   </tr>
 </table>
 
