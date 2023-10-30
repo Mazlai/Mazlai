@@ -1,0 +1,11 @@
+|↪️|image:https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white[Discord, javascript:void(0);, onclick="ouvrirPopup()"]|
+
+[.script]
+[source,javascript]
+----
+function ouvrirPopup() {
+    window.open('', 'Mazlai', 'width=200,height=100');
+    let popup = window.open('', 'Mazlai', 'width=200,height=100');
+    popup.document.write('<h1>Mazlai</h1>');
+}
+----
