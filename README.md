@@ -111,7 +111,7 @@
 
 <table>
   <tr>
-    <td colspan="4"><strong>OS 📀<br><br></strong></td>
+    <th colspan="4" align="left">OS 📀<br><br></th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></td>
@@ -119,15 +119,21 @@
     <td><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td colspan="4"><strong>Terminals 💻<br><br></strong></td>
+    <th colspan="2" align="left">Terminals 💻<br><br></th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td colspan="5"><strong>IDE 📺<br><br></strong></td>
+    <th colspan="4" align="left">IDE 📺<br><br></th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" /></td>
@@ -140,21 +146,27 @@
     <td><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" /></td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td colspan="4"><strong>Office 📔<br><br></strong></td>
+    <th colspan="3" align="left">Office 📔<br><br></th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /></td>
   </tr>
   <tr>
+    <td><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td colspan="4"><strong>Cloud ☁️<br><br></strong></td>
+    <th align="left">Cloud ☁️<br><br></th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></td>
