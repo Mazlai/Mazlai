@@ -8,7 +8,7 @@
  
 - 💞️ I am looking to collaborate on a large project, consisting of making an application (all themes are welcome), usable on all media or to create an appropriate website.
 
-### Social media 📹
+### Social media & contact 📹
 
 <table>
   <tr>
@@ -17,11 +17,15 @@
   </tr>
   <tr>
     <td>↪️</td>
-    <td><a href="https://discord.com/users/" > <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a></td>
+    <td><a href="https://discord.com/users/286184679147700224" > <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a></td>
   </tr>
   <tr>
     <td>↪️</td>
     <td><a href="https://www.linkedin.com/in/mickael-fernandez-mf/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a></td>
+  </tr>
+  <tr>
+    <td>↪️</td>
+    <td><a href="mailto:mickael.fernandez31300@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a></td>
   </tr>
 </table>
 
