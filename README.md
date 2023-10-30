@@ -4,8 +4,8 @@
 
 <img src="./images/Monochrome.jpg" style="width:200px;height:auto;" /><br><br>
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />
-<img src="https://img.shields.io/github/watchers/{Mazlai}/{Mazlai}.svg" />
-<img src="https://img.shields.io/github/followers/{Mazlai}.svg?style=social&label=Follow&maxAge=2592000" />
+<img src="https://img.shields.io/github/watchers/Mazlai/Mazlai.svg" />
+<img src="https://img.shields.io/github/followers/Mazlai.svg?style=social&label=Follow&maxAge=2592000" />
 
 </div>
 
@@ -111,7 +111,7 @@
 
 <table>
   <tr>
-    <td colspan="4"><strong>OS 📀</strong></td>
+    <td colspan="4"><strong>OS 📀<br><br></strong></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></td>
@@ -120,14 +120,14 @@
     <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></td>
   </tr>
   <tr>
-    <td colspan="4"><strong>Terminals 💻</strong></td>
+    <td colspan="4"><strong>Terminals 💻<br><br></strong></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></td>
   </tr>
   <tr>
-    <td colspan="5"><strong>IDE 📺</strong></td>
+    <td colspan="5"><strong>IDE 📺<br><br></strong></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" /></td>
@@ -141,7 +141,7 @@
     <td><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" /></td>
   </tr>
   <tr>
-    <td colspan="4"><strong>Office 📔</strong></td>
+    <td colspan="4"><strong>Office 📔<br><br></strong></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /></td>
@@ -154,7 +154,7 @@
     <td><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></td>
   </tr>
   <tr>
-    <td colspan="4"><strong>Cloud ☁️</strong></td>
+    <td colspan="4"><strong>Cloud ☁️<br><br></strong></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></td>
