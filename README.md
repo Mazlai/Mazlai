@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>↪️</td>
-    <td><a href="Mazlai" > <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a></td>
+    <td><a href="javascript:window.open('document.aspx','mypopuptitle','width=600,height=400')" > <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a></td>
   </tr>
   <tr>
     <td>↪️</td>
