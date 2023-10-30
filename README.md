@@ -17,7 +17,14 @@
   </tr>
   <tr>
     <td>↪️</td>
-    <td><a href="javascript:window.open('document.aspx','mypopuptitle','width=600,height=400')" > <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a></td>
+    <script>
+        function ouvrirPopup() {
+            window.open('', 'Mazlai', 'width=200,height=100');
+            let popup = window.open('', 'Mazlai', 'width=200,height=100');
+            popup.document.write('<h1>Mazlai</h1>');
+        }
+    </script>
+    <td><a href="javascript:void(0);" onclick="ouvrirPopup()"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a></td>
   </tr>
   <tr>
     <td>↪️</td>
