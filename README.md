@@ -4,7 +4,7 @@
 
 <img src="./images/Monochrome.jpg" style="width:200px;height:auto;" /><br><br>
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />
-<img src="https://img.shields.io/github/watchers/Mazlai/Mazlai.svg" />
+<img src="https://komarev.com/ghpvc/?username=Mazlai&label=Profile%20views&color=lightgrey&style=flat" alt="mazlai" />
 <img src="https://img.shields.io/github/followers/Mazlai.svg?style=social&label=Follow&maxAge=2592000" />
 
 </div>
