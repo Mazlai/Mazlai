@@ -1,4 +1,10 @@
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif" width="100%" height="2" border="0" alt="animated-line-image-0446" />
+
 <div align="center">
+
+![walk-anime](https://github.com/Mazlai/Mazlai/assets/57178136/7ade446c-2100-43c7-9aca-a3ae14b15d4e)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif" width="100%" height="2" border="0" alt="animated-line-image-0446" />
 
 # Hello, I am Mickael Fernandez. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
@@ -110,88 +116,90 @@
 ### Tools 🧰
 
 <table>
-  <tr>
-    <th colspan="4" align="left">OS 📀<br><br></th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th colspan="2" align="left">Terminals 💻<br><br></th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th colspan="4" align="left">IDE 📺<br><br></th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th colspan="3" align="left">Office 📔<br><br></th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th align="left">Cloud ☁️<br><br></th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left">OS 📀</th>
+      <th align="left">Terminals 💻</th>
+      <th align="left">IDE 📺</th>
+      <th align="left">Office 📔</th>
+      <th align="left">Cloud ☁️</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <!-- OS -->
+      <td>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/e2831e17-f8d4-4158-a191-53ded93c98f0" width="50" height="50"/><br>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/f657815e-9fc4-4922-bdfd-ed5841f565cf" width="50" height="50"/><br>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/c2a8ce52-8a32-4ff9-bda4-fd082a490069" width="50" height="50"/><br>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/5c9dcd26-c61a-4692-ba2e-5d42ceacb26b" width="50" height="50"/>
+      </td>
+      <!-- Terminals -->
+      <td>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/d42b2df0-f2e2-4e30-a4c5-0506d533a3ac" width="50" height="50"/><br>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/f6ade329-df77-4858-b57f-c4bf08cc64c2" width="50" height="50"/><br>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/e8026513-4d9e-419b-812f-e98e46af76ea" width="50" height="50"/>
+      </td>
+      <!-- IDE -->
+      <td>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/0101fb80-fb36-4a1b-aa5f-9e470929e9a2" width="50" height="50"/><br>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/3290d0e5-bf66-4dbb-bf1d-8f18efa25a95" width="50" height="50"/><br>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/a4bf1d11-003b-4af7-9798-5bf9520ee0a6" width="50" height="50"/><br>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/0c57ce8f-bf3c-4845-ba5a-4e30a757efb2" width="50" height="50"/><br>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/42c931f3-12ce-40cf-8f2a-91ba3e20e071" width="50" height="50"/><br>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/0e1e4a8b-5b00-449c-888a-e838845bef24" width="50" height="50"/><br>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/8868f758-6de3-478f-9491-24d60f224d1d" width="50" height="50"/>
+      </td>
+      <!-- Office -->
+      <td>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/916d1894-4a51-4f1f-88b4-1c802b9a63b7" width="50" height="50"/><br>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/434c0b42-bdbf-4cbd-b6f3-7ffc62dfc26e" width="50" height="50"/><br>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/c0a629ba-ebbb-4f6e-be0d-af601f144952" width="50" height="50"/><br>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/73f9bc82-05b1-425c-b96f-156e41aca821" width="50" height="50"/><br>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/c237d341-805d-4605-8947-39b876ca0f31" width="50" height="50"/><br>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/e5cecf4f-0875-478c-80e8-213c23a2bbeb" width="50" height="50"/>
+      </td>
+      <!-- Cloud -->
+      <td>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/afd99ca3-bcf8-4bed-9fb2-b9ea0a6e2c6a" width="50" height="50"/><br>
+        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/b222f373-b7fa-4f94-9d8c-bb5f7430d723" width="50" height="50"/>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ## GitHub Achievements 🍃
 
 <div align="center">
-  <table>
-    <tr>
-      <td style="white-space: nowrap;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mazlai&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" />
-      </td>
-      <td style="white-space: nowrap;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazlai&layout=compact&theme=radical&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+ <table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazlai&layout=compact&theme=nightowl&hide_border=true&locale=fr" alt="Langues les plus utilisées">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mazlai&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true&locale=fr" alt="Statistiques GitHub">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Mazlai&theme=nightowl&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
 </div>
 
 ## Trophies 🏆
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/api?username=Mazlai&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" />
+ <table>
+  <tr>
+    <td align="center">
+     <img src="https://github-profile-trophy.vercel.app/api?username=Mazlai&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&locale=fr&column=3&margin-h=15margin-w=15&margin-h=15&no-frame=true" />
+    </td>
+  </tr>
+ </table>
 </div>
 
 <hr>
