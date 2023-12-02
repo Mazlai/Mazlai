@@ -115,58 +115,60 @@
 
 ### Tools 🧰
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">OS 📀</th>
-      <th align="left">Terminals 💻</th>
-      <th align="left">IDE 📺</th>
-      <th align="left">Office 📔</th>
-      <th align="left">Cloud ☁️</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <!-- OS -->
-      <td>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/e2831e17-f8d4-4158-a191-53ded93c98f0" width="50" height="50"/><br>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/f657815e-9fc4-4922-bdfd-ed5841f565cf" width="50" height="50"/><br>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/c2a8ce52-8a32-4ff9-bda4-fd082a490069" width="50" height="50"/><br>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/5c9dcd26-c61a-4692-ba2e-5d42ceacb26b" width="50" height="50"/>
-      </td>
-      <!-- Terminals -->
-      <td>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/d42b2df0-f2e2-4e30-a4c5-0506d533a3ac" width="50" height="50"/><br>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/f6ade329-df77-4858-b57f-c4bf08cc64c2" width="50" height="50"/><br>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/e8026513-4d9e-419b-812f-e98e46af76ea" width="50" height="50"/>
-      </td>
-      <!-- IDE -->
-      <td>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/0101fb80-fb36-4a1b-aa5f-9e470929e9a2" width="50" height="50"/><br>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/3290d0e5-bf66-4dbb-bf1d-8f18efa25a95" width="50" height="50"/><br>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/a4bf1d11-003b-4af7-9798-5bf9520ee0a6" width="50" height="50"/><br>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/0c57ce8f-bf3c-4845-ba5a-4e30a757efb2" width="50" height="50"/><br>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/42c931f3-12ce-40cf-8f2a-91ba3e20e071" width="50" height="50"/><br>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/0e1e4a8b-5b00-449c-888a-e838845bef24" width="50" height="50"/><br>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/8868f758-6de3-478f-9491-24d60f224d1d" width="50" height="50"/>
-      </td>
-      <!-- Office -->
-      <td>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/916d1894-4a51-4f1f-88b4-1c802b9a63b7" width="50" height="50"/><br>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/434c0b42-bdbf-4cbd-b6f3-7ffc62dfc26e" width="50" height="50"/><br>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/c0a629ba-ebbb-4f6e-be0d-af601f144952" width="50" height="50"/><br>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/73f9bc82-05b1-425c-b96f-156e41aca821" width="50" height="50"/><br>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/c237d341-805d-4605-8947-39b876ca0f31" width="50" height="50"/><br>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/e5cecf4f-0875-478c-80e8-213c23a2bbeb" width="50" height="50"/>
-      </td>
-      <!-- Cloud -->
-      <td>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/afd99ca3-bcf8-4bed-9fb2-b9ea0a6e2c6a" width="50" height="50"/><br>
-        <img src="https://github.com/Mazlai/Mazlai/assets/57178136/b222f373-b7fa-4f94-9d8c-bb5f7430d723" width="50" height="50"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+ <table>
+   <thead>
+     <tr>
+       <th align="left">OS 📀</th>
+       <th align="left">Terminals 💻</th>
+       <th align="left">IDE 📺</th>
+       <th align="left">Office 📔</th>
+       <th align="left">Cloud ☁️</th>
+     </tr>
+   </thead>
+   <tbody>
+     <tr>
+       <!-- OS -->
+       <td>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/01f2ba36-8972-46df-a8cb-75dcab620c88" width="50" height="50"/><br>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/2f6d8254-398f-418c-ac48-e90f8a41a0e4" width="50" height="50"/><br>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/c2a8ce52-8a32-4ff9-bda4-fd082a490069" width="50" height="50"/><br>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/5c9dcd26-c61a-4692-ba2e-5d42ceacb26b" width="50" height="50"/>
+       </td>
+       <!-- Terminals -->
+       <td>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/d42b2df0-f2e2-4e30-a4c5-0506d533a3ac" width="50" height="50"/><br>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/f6ade329-df77-4858-b57f-c4bf08cc64c2" width="50" height="50"/><br>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/e8026513-4d9e-419b-812f-e98e46af76ea" width="50" height="50"/>
+       </td>
+       <!-- IDE -->
+       <td>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/88dafa92-4453-466a-89eb-d9668f4645c0" width="50" height="50"/><br>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/3290d0e5-bf66-4dbb-bf1d-8f18efa25a95" width="50" height="50"/><br>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/a4bf1d11-003b-4af7-9798-5bf9520ee0a6" width="50" height="50"/><br>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/0c57ce8f-bf3c-4845-ba5a-4e30a757efb2" width="50" height="50"/><br>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/42c931f3-12ce-40cf-8f2a-91ba3e20e071" width="50" height="50"/><br>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/0e1e4a8b-5b00-449c-888a-e838845bef24" width="50" height="50"/><br>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/8868f758-6de3-478f-9491-24d60f224d1d" width="50" height="50"/>
+       </td>
+       <!-- Office -->
+       <td>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/ec9caef2-a36a-41fd-9fa4-abad9358ebf2" width="50" height="50"/><br>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/434c0b42-bdbf-4cbd-b6f3-7ffc62dfc26e" width="50" height="50"/><br>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/c0a629ba-ebbb-4f6e-be0d-af601f144952" width="50" height="50"/><br>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/73f9bc82-05b1-425c-b96f-156e41aca821" width="50" height="50"/><br>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/c237d341-805d-4605-8947-39b876ca0f31" width="50" height="50"/><br>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/e5cecf4f-0875-478c-80e8-213c23a2bbeb" width="50" height="50"/>
+       </td>
+       <!-- Cloud -->
+       <td>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/afd99ca3-bcf8-4bed-9fb2-b9ea0a6e2c6a" width="50" height="50"/><br>
+         <img src="https://github.com/Mazlai/Mazlai/assets/57178136/b222f373-b7fa-4f94-9d8c-bb5f7430d723" width="50" height="50"/>
+       </td>
+     </tr>
+   </tbody>
+ </table>
+</div>
 
 ## GitHub Achievements 🍃
 
