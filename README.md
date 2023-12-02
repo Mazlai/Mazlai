@@ -17,11 +17,11 @@
 
 ## Introduce myself 👇
 
- - 👀 I am interested in frontend development of applications or websites (using <b>HTML, CSS, JS</b>) but also in back-end development including <b>SQL</b>, <b>PHP</b>...
+> 👀 I'm interested in developing applications or websites and looking to become a <b>full-stack developer</b>, including the front-end and back-end.
 
- - 🌱 I am currently learning <b>Java</b> (for object-oriented programming), <b>Node.js</b> (for building server-side applications), <b>PHP</b> (for dynamic web pages), <b>SQL</b> (for databases), <b>UNIX</b> (for terminals) and <b>Python</b> as part of my studies.
+> 🌱 I'm currently learning <b>Java</b> (for object-oriented programming), <b>Node.js</b> (for building server-side applications), <b>Symfony</b> (for dynamic web pages), <b>NoSQL</b> (for non-relational databases), and <b>Django</b> as part of my studies.
  
-- 💞️ I am looking to collaborate on a large project, consisting of making an application (all themes are welcome), usable on all media or to create an appropriate website.
+> 💞️ I'm looking to collaborate on a large project, consisting of making an application (all themes are welcome), usable on all media or to create an appropriate website.
 
 ## Social media & details 📹
 
