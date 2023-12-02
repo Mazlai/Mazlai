@@ -9,10 +9,6 @@
 
 </div>
 
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing-mazlais-projects.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/mickael31300)
-
 ## Introduce myself 👇
 
  - 👀 I am interested in frontend development of applications or websites (using <b>HTML, CSS, JS</b>) but also in back-end development including <b>SQL</b>, <b>PHP</b>...
