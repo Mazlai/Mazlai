@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![walk-anime](https://github.com/Mazlai/Mazlai/assets/57178136/7ade446c-2100-43c7-9aca-a3ae14b15d4e)
+<img src="https://github.com/Mazlai/Mazlai/assets/57178136/7ade446c-2100-43c7-9aca-a3ae14b15d4e" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif" width="100%" height="2" border="0" alt="animated-line-image-0446" />
 
